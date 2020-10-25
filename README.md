@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+This Flutter project was created to show network layering and how we can wrap our http calls.
+Another cool feature was done in the project, and that is infinite scroll pagination.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
